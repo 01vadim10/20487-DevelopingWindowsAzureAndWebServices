@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueYonder.Model", "BlueYonder.Model\BlueYonder.Model.csproj", "{0785CDC6-7BB3-439D-BC45-7959F4EAD33F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueYonder.MVC", "BlueYonder.MVC\BlueYonder.MVC.csproj", "{817A2070-9B8D-4A8A-B369-D91094D05C99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0785CDC6-7BB3-439D-BC45-7959F4EAD33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0785CDC6-7BB3-439D-BC45-7959F4EAD33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0785CDC6-7BB3-439D-BC45-7959F4EAD33F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{817A2070-9B8D-4A8A-B369-D91094D05C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817A2070-9B8D-4A8A-B369-D91094D05C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817A2070-9B8D-4A8A-B369-D91094D05C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817A2070-9B8D-4A8A-B369-D91094D05C99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
